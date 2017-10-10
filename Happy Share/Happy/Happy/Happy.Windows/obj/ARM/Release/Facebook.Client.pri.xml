@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Facebook.Client" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN, ES</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Facebook.Client">
+			<ResourceMapSubtree name="Resources">
+				<ResourceMapSubtree name="LoginButton">
+					<NamedResource name="Caption_CloseSession" uri="ms-resource://Facebook.Client/Facebook.Client/Resources/LoginButton/Caption_CloseSession">
+						<Candidate qualifiers="Language-ES" type="String">
+							<Value>Cierra Sesión</Value>
+						</Candidate>
+						<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+							<Value>Log Out</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Caption_OpenSession" uri="ms-resource://Facebook.Client/Facebook.Client/Resources/LoginButton/Caption_OpenSession">
+						<Candidate qualifiers="Language-ES" type="String">
+							<Value>Inicia Sesión</Value>
+						</Candidate>
+						<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+							<Value>Log In</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Facebook.Client">
+				<NamedResource name="FacebookDialogPage.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/FacebookDialogPage.xaml">
+					<Candidate type="Path">
+						<Value>Facebook.Client\FacebookDialogPage.xaml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="FriendPicker">
+						<NamedResource name="FriendPicker.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Controls/FriendPicker/FriendPicker.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\FriendPicker\FriendPicker.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="LoginButton">
+						<NamedResource name="LoginButton.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Controls/LoginButton/LoginButton.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\LoginButton\LoginButton.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="PlacePicker">
+						<NamedResource name="PlacePicker.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Controls/PlacePicker/PlacePicker.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\PlacePicker\PlacePicker.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ProfilePicture">
+						<NamedResource name="ProfilePicture.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Controls/ProfilePicture/ProfilePicture.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\ProfilePicture\ProfilePicture.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="fb_blank_place_profile_square.png" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Images/fb_blank_place_profile_square.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_place_profile_square.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fb_blank_profile_portrait.png" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Images/fb_blank_profile_portrait.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_profile_portrait.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fb_blank_profile_square.png" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Images/fb_blank_profile_square.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_profile_square.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://Facebook.Client/Files/Facebook.Client/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

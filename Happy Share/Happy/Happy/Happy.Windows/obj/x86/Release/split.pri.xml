@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="47309GasserMontaser.HappyShare" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN, EN-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Facebook.Client">
+			<ResourceMapSubtree name="Resources">
+				<ResourceMapSubtree name="LoginButton">
+					<NamedResource name="Caption_CloseSession" uri="ms-resource://47309GasserMontaser.HappyShare/Facebook.Client/Resources/LoginButton/Caption_CloseSession">
+						<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+							<Value>Log Out</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Caption_OpenSession" uri="ms-resource://47309GasserMontaser.HappyShare/Facebook.Client/Resources/LoginButton/Caption_OpenSession">
+						<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+							<Value>Log In</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="About.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/About.xbf">
+				<Candidate type="Path">
+					<Value>About.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Happy Share.Windows.xr.xml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Happy%20Share.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>Happy Share.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="How_to_be_happy.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/How_to_be_happy.xbf">
+				<Candidate type="Path">
+					<Value>How_to_be_happy.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubPage.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/HubPage.xbf">
+				<Candidate type="Path">
+					<Value>HubPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Images.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Images.xbf">
+				<Candidate type="Path">
+					<Value>Images.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemPage.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/ItemPage.xbf">
+				<Candidate type="Path">
+					<Value>ItemPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Quotes_page.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Quotes_page.xbf">
+				<Candidate type="Path">
+					<Value>Quotes_page.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SectionPage.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/SectionPage.xbf">
+				<Candidate type="Path">
+					<Value>SectionPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="shareHappy-Splash Screen.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/shareHappy-Splash%20Screen.png"/>
+			<NamedResource name="shareHappy1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/shareHappy1.png">
+				<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+					<Value>shareHappy1.scale-100.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Videos_links.xbf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Videos_links.xbf">
+				<Candidate type="Path">
+					<Value>Videos_links.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/1.png">
+					<Candidate type="Path">
+						<Value>Assets\1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="4.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/4.png">
+					<Candidate type="Path">
+						<Value>Assets\4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="6.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/6.png">
+					<Candidate type="Path">
+						<Value>Assets\6.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="7.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/7.png">
+					<Candidate type="Path">
+						<Value>Assets\7.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="8.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/8.png">
+					<Candidate type="Path">
+						<Value>Assets\8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="About background.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/About%20background.png">
+					<Candidate type="Path">
+						<Value>Assets\About background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acceptance.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/acceptance.png">
+					<Candidate type="Path">
+						<Value>Assets\acceptance.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appreciating.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/appreciating.png">
+					<Candidate type="Path">
+						<Value>Assets\appreciating.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DarkGray.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/DarkGray.png">
+					<Candidate type="Path">
+						<Value>Assets\DarkGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="direction.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/direction.png">
+					<Candidate type="Path">
+						<Value>Assets\direction.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="emotion.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/emotion.png">
+					<Candidate type="Path">
+						<Value>Assets\emotion.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="exercising.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/exercising.png">
+					<Candidate type="Path">
+						<Value>Assets\exercising.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="giving.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/giving.png">
+					<Candidate type="Path">
+						<Value>Assets\giving.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Happy Moment.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Happy%20Moment.png">
+					<Candidate type="Path">
+						<Value>Assets\Happy Moment.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LightGray.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/LightGray.png">
+					<Candidate type="Path">
+						<Value>Assets\LightGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meaning.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/meaning.png">
+					<Candidate type="Path">
+						<Value>Assets\meaning.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediumGray.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/MediumGray.png">
+					<Candidate type="Path">
+						<Value>Assets\MediumGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediumYellow.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/MediumYellow.png">
+					<Candidate type="Path">
+						<Value>Assets\MediumYellow.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photos.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/photos.png">
+					<Candidate type="Path">
+						<Value>Assets\photos.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic3.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/pic3.png">
+					<Candidate type="Path">
+						<Value>Assets\pic3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic4.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/pic4.png">
+					<Candidate type="Path">
+						<Value>Assets\pic4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic6.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/pic6.png">
+					<Candidate type="Path">
+						<Value>Assets\pic6.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic8.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/pic8.png">
+					<Candidate type="Path">
+						<Value>Assets\pic8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quote.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/quote.png">
+					<Candidate type="Path">
+						<Value>Assets\quote.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="relating.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/relating.png">
+					<Candidate type="Path">
+						<Value>Assets\relating.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="resilience.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/resilience.png">
+					<Candidate type="Path">
+						<Value>Assets\resilience.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shareHappy-Splash Screen.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/shareHappy-Splash%20Screen.png">
+					<Candidate type="Path">
+						<Value>Assets\shareHappy-Splash Screen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shareHappy1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/shareHappy1.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\shareHappy1.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shareHappy2.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/shareHappy2.png">
+					<Candidate type="Path">
+						<Value>Assets\shareHappy2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shareHappy3.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/shareHappy3.png">
+					<Candidate type="Path">
+						<Value>Assets\shareHappy3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shareHappy5.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/shareHappy5.png">
+					<Candidate type="Path">
+						<Value>Assets\shareHappy5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tipsFinal.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/tipsFinal.png">
+					<Candidate type="Path">
+						<Value>Assets\tipsFinal.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="trying_out.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/trying_out.png">
+					<Candidate type="Path">
+						<Value>Assets\trying_out.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="video.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/video.png">
+					<Candidate type="Path">
+						<Value>Assets\video.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="about">
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/about/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/about/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\about\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/about/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/about/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/about/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\about\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Assembly logo">
+					<NamedResource name="About background.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/About%20background.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\About background.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Blue.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/Blue.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Blue.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/Logo%20Icon.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Assembly%20logo/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="SampleData.json" uri="ms-resource://47309GasserMontaser.HappyShare/Files/DataModel/SampleData.json">
+					<Candidate type="Path">
+						<Value>DataModel\SampleData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Facebook.Client">
+				<NamedResource name="FacebookDialogPage.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/FacebookDialogPage.xaml">
+					<Candidate type="Path">
+						<Value>Facebook.Client\FacebookDialogPage.xaml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="FriendPicker">
+						<NamedResource name="FriendPicker.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Controls/FriendPicker/FriendPicker.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\FriendPicker\FriendPicker.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="LoginButton">
+						<NamedResource name="LoginButton.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Controls/LoginButton/LoginButton.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\LoginButton\LoginButton.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="PlacePicker">
+						<NamedResource name="PlacePicker.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Controls/PlacePicker/PlacePicker.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\PlacePicker\PlacePicker.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ProfilePicture">
+						<NamedResource name="ProfilePicture.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Controls/ProfilePicture/ProfilePicture.xaml">
+							<Candidate type="Path">
+								<Value>Facebook.Client\Controls\ProfilePicture\ProfilePicture.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="fb_blank_place_profile_square.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Images/fb_blank_place_profile_square.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_place_profile_square.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fb_blank_profile_portrait.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Images/fb_blank_profile_portrait.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_profile_portrait.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fb_blank_profile_square.png" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Images/fb_blank_profile_square.png">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Images\fb_blank_profile_square.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Facebook.Client/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Facebook.Client\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="Group1Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group1Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group1Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group1Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group2Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group2Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group2Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group2Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group3Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group3Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group3Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group3Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group4Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group4Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group4Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group4Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group5Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group5Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group5Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group5Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group6Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group6Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Subtitle: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Group6Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Group6Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Title: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GroupDescription" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/GroupDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection1" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/HubSection1">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection2" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/HubSection2">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection3" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/HubSection3">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection4" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/HubSection4">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection5" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/HubSection5">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SECTION 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item1Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item1Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item1Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item1Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item2Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item2Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item2Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item2Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 2</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item3Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item3Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item3Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item3Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item4Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item4Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item4Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item4Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 4</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item5Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item5Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item5Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item5Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 5</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item6Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item6Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item6Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item6Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 6</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item7Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item7Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 7</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item7Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item7Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 7</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item8Subtitle" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item8Subtitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Subtitle: 8</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item8Title" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Item8Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Title: 8</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemContent" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/ItemContent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Curabitur class aliquam vestibulum nam curae maecenas sed integer cras phasellus suspendisse quisque donec dis praesent accumsan bibendum pellentesque condimentum adipiscing etiam consequat vivamus dictumst aliquam duis convallis scelerisque est parturient ullamcorper aliquet fusce suspendisse nunc hac eleifend amet blandit facilisi condimentum commodo scelerisque faucibus aenean ullamcorper ante mauris dignissim consectetuer nullam lorem vestibulum habitant conubia elementum pellentesque morbi facilisis arcu sollicitudin diam cubilia aptent vestibulum auctor eget dapibus pellentesque inceptos leo egestas interdum nulla consectetuer suspendisse adipiscing pellentesque proin lobortis sollicitudin augue elit mus congue fermentum parturient fringilla euismod feugiat</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemContentFormat" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/ItemContentFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Content: {0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemDescription" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/ItemDescription">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/NavigationFailedExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Navigation failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="DescriptionHeader">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/DescriptionHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Description text:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Header">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Header/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>application name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Hub">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Hub/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>application name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ItemSubTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/ItemSubTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Item Sub Title</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ItemTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/ItemTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Item Title</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LongText">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/LongText/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1DescriptionText">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section1DescriptionText/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper. Lorem ipsum dolor sit amet, consectetuer ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis ni ut wisi quipexerci quis consequat minim veniam, quis nostrud exerci tation ullam corper.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section1Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 1</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section1Subtitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section1Subtitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lorem ipsum dolor sit nonumy sed consectetuer ising elit, sed diam</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section2Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section2Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 2</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section2UnderTitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section2UnderTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Quisque in porta lorem dolor amet sed consectetuer ising elit, sed diam non my nibh uis mod wisi quip.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section3Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section3Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section3Subtitle">
+				<NamedResource name="Text" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section3Subtitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section subtitle</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Section4Header">
+				<NamedResource name="Header" uri="ms-resource://47309GasserMontaser.HappyShare/Resources/Section4Header/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Section 4</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

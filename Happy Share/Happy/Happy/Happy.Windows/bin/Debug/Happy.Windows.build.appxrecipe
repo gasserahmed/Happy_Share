@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GASSER</Machine>
+    <WindowsUser>Gasser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c80ed2ca-846e-46bd-a991-b1ba80fb39ff</PackageIdentityName>
+    <IntermediateOutputPath>W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\Happy Share.Windows.exe">
+      <PackagePath>Happy Share.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client.dll">
+      <PackagePath>Facebook.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.6.8.0\lib\win8\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\shareHappy-Splash Screen.scale-180.png">
+      <PackagePath>Assets\shareHappy-Splash Screen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\shareHappy1.scale-100.png">
+      <PackagePath>Assets\shareHappy1.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\shareHappy-Splash Screen.scale-140.png">
+      <PackagePath>shareHappy-Splash Screen.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\shareHappy1.scale-100.png">
+      <PackagePath>shareHappy1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\Happy.png">
+      <PackagePath>Assets\Happy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\image.png">
+      <PackagePath>Assets\image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\MediumYellow.png">
+      <PackagePath>Assets\MediumYellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\quote.png">
+      <PackagePath>Assets\quote.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\shareHappy-Splash Screen.png">
+      <PackagePath>Assets\shareHappy-Splash Screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\shareHappy.png">
+      <PackagePath>Assets\shareHappy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\shareHappy2.png">
+      <PackagePath>Assets\shareHappy2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\shareHappy3.png">
+      <PackagePath>Assets\shareHappy3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\tipsFinal.png">
+      <PackagePath>Assets\tipsFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\video.png">
+      <PackagePath>Assets\video.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\Assets\happ1.jpg">
+      <PackagePath>Assets\happ1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\Videos_links.xbf">
+      <PackagePath>Videos_links.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\Images.xbf">
+      <PackagePath>Images.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\Quotes_page.xbf">
+      <PackagePath>Quotes_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\How_to_be_happy.xbf">
+      <PackagePath>How_to_be_happy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\Happy Share.Windows.xr.xml">
+      <PackagePath>Happy Share.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\FacebookDialogPage.xaml">
+      <PackagePath>Facebook.Client\FacebookDialogPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Controls\FriendPicker\FriendPicker.xaml">
+      <PackagePath>Facebook.Client\Controls\FriendPicker\FriendPicker.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Controls\LoginButton\LoginButton.xaml">
+      <PackagePath>Facebook.Client\Controls\LoginButton\LoginButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Controls\PlacePicker\PlacePicker.xaml">
+      <PackagePath>Facebook.Client\Controls\PlacePicker\PlacePicker.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Controls\ProfilePicture\ProfilePicture.xaml">
+      <PackagePath>Facebook.Client\Controls\ProfilePicture\ProfilePicture.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Images\fb_blank_place_profile_square.png">
+      <PackagePath>Facebook.Client\Images\fb_blank_place_profile_square.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Images\fb_blank_profile_portrait.png">
+      <PackagePath>Facebook.Client\Images\fb_blank_profile_portrait.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Images\fb_blank_profile_square.png">
+      <PackagePath>Facebook.Client\Images\fb_blank_profile_square.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client\Themes\Generic.xaml">
+      <PackagePath>Facebook.Client\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Backup\Happy2\Happy\Happy.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

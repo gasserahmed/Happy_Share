@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>757afa98-f8f4-42e3-beaf-3895ae535613</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Happy</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\SampleDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MomentList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MomentItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tips.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)QuoteRss.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FillingTips.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RssFeed.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLiteAsync.cs" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\6.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\7.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\8.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\About background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\about\Assembly 5-1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\about\FBL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\about\Logo Icon 1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\about\Logo Icon2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\about\TL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\acceptance.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\appreciating.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\About background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Assembly 5-1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\FBL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon 1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\TL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\direction.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\emotion.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\exercising.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\giving.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Happy Moment.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\meaning.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MediumYellow.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\photos.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\pic3.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\pic4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\pic6.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\pic8.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\quote.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\relating.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\resilience.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\shareHappy-Splash Screen.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\shareHappy1.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\shareHappy2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\shareHappy3.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\shareHappy5.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\tipsFinal.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\trying_out.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\video.png" />
+    <Content Include="$(MSBuildThisFileDirectory)DataModel\SampleData.json" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\LightGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MediumGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DarkGray.png" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en-US\Resources.resw" />
+  </ItemGroup>
+</Project>

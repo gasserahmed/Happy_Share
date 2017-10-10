@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es"
+
+[Files]
+"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\x64\Release\split.language-es.pri"			"resources.pri"

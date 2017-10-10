@@ -1,0 +1,4 @@
+MainPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\bin\ARM\Release\Happy.Windows_1.1.0.4_Bundle\Happy.Windows_1.1.0.4_ARM.appx
+SymbolPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\AppPackages\Happy.Windows_1.1.0.4_Test\Happy.Windows_1.1.0.4_ARM.appxsym
+ResourcePack=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\bin\ARM\Release\Happy.Windows_1.1.0.4_Bundle\Happy.Windows_1.1.0.4_scale-140.appx
+ResourcePack=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\bin\ARM\Release\Happy.Windows_1.1.0.4_Bundle\Happy.Windows_1.1.0.4_scale-180.appx

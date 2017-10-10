@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="w:\microsoft\applictaions\happy share\happy\happy\happy.windows\obj\x86\debug\intermediatexaml\happy share.windows.exe" HashGuid="b05f430a-e35d-eb04-5b4b-28fec8bcf6ac" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="w:\microsoft\applictaions\happy share\happy\packages\facebook.client.0.9.1-alpha\lib\win8\facebook.client.dll" HashGuid="3551fe4a-fd65-e55c-f61a-54be3d0131d2" />
+    <ReferenceAssembly PathName="w:\microsoft\applictaions\happy share\happy\packages\facebook.6.8.0\lib\win8\facebook.dll" HashGuid="2994024a-c266-83e1-c718-df8bd8320f21" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

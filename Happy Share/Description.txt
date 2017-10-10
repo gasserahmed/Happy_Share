@@ -1,0 +1,13 @@
+Happy Share is a social app that encourages people to be happier and optimistic in their lives by  sharing their happy moments with other people and by providing them with tips, quotes, images and videos about Happiness.
+
+Developed By: Gasser Montaser Saleh
+Faculty: Faculty of Engineering
+University: Alexandria University
+
+
+Happy Share is a social app that encourages people to be happier and optimistic in their lives by  sharing their happy moments with other people by writing these moments in list of Happy Moments and if you want to share any moment of them, that moment will be put  in an image with a beautiful design and then that image will be shared.
+Happy Share also provides tips, quotes, images and videos about Happiness.
+
+Developed By: Gasser Montaser Saleh
+Faculty: Faculty of Engineering
+University: Alexandria University
