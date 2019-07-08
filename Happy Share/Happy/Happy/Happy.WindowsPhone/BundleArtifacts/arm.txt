@@ -1,4 +1,4 @@
-MainPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.5_Bundle\Happy.WindowsPhone_1.1.0.5_ARM.appx
-SymbolPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.WindowsPhone\AppPackages\Happy.WindowsPhone_1.1.0.5_Test\Happy.WindowsPhone_1.1.0.5_ARM.appxsym
-ResourcePack=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.5_Bundle\Happy.WindowsPhone_1.1.0.5_scale-100.appx
-ResourcePack=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.5_Bundle\Happy.WindowsPhone_1.1.0.5_scale-140.appx
+MainPackage=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.6_Bundle\Happy.WindowsPhone_1.1.0.6_ARM.appx
+SymbolPackage=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.WindowsPhone\AppPackages\Happy.WindowsPhone_1.1.0.6_Test\Happy.WindowsPhone_1.1.0.6_ARM.appxsym
+ResourcePack=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.6_Bundle\Happy.WindowsPhone_1.1.0.6_scale-100.appx
+ResourcePack=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.WindowsPhone\bin\ARM\Release\Happy.WindowsPhone_1.1.0.6_Bundle\Happy.WindowsPhone_1.1.0.6_scale-140.appx

@@ -179,7 +179,7 @@
                         <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
                     <Viewbox >
-                        <TextBlock   x:Name="quoteText" TextAlignment="center" FontSize="80" FontWeight="Thin" Foreground="#FFFFFF" TextWrapping="Wrap" Width="927" Height="1000"/>
+                            <TextBlock   x:Name="quoteText" FontFamily="/Assets/Fonts/Gabriola.ttf#Gabriola One" TextAlignment="center" FontSize="106" FontWeight="Thin" Foreground="#FFFFFF" TextWrapping="Wrap" Width="927" Height="1000"/>
                     </Viewbox>
                 </Grid>
             </Canvas>

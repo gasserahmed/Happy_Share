@@ -1,2 +1,2 @@
-MainPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Release\Happy.Windows_1.1.0.4_Bundle\Happy.Windows_1.1.0.4_x86.appx
-SymbolPackage=W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\AppPackages\Happy.Windows_1.1.0.4_Test\Happy.Windows_1.1.0.4_x86.appxsym
+MainPackage=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Release\Happy.Windows_1.1.0.9_Bundle\Happy.Windows_1.1.0.9_x86.appx
+SymbolPackage=W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\AppPackages\Happy.Windows_1.1.0.9_Test\Happy.Windows_1.1.0.9_x86.appxsym

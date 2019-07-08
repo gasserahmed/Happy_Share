@@ -3,4 +3,4 @@
 "ResourceDimensions"		"language-es"
 
 [Files]
-"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\x86\Release\split.language-es.pri"			"resources.pri"
+"W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\obj\x86\Release\split.language-es.pri"			"resources.pri"

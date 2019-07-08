@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="47309GasserMontaser.HappyShare" Publisher="CN=D0358DB2-991F-4BCB-AEF6-7C0495E84F3D" Version="1.1.0.4" />
+  <Identity Name="47309GasserMontaser.HappyShare" Publisher="CN=D0358DB2-991F-4BCB-AEF6-7C0495E84F3D" Version="1.1.0.9" />
   <Properties>
     <DisplayName>Нappy Share</DisplayName>
     <PublisherDisplayName>Gasser Montaser</PublisherDisplayName>

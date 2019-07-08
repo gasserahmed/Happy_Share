@@ -20,7 +20,8 @@
     <RestorePackages>true</RestorePackages>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>BFDC421A329E4F931055DA313F275DB14FAA75F6</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>3C1BA57F2A5265A4481AA24C71F62AD98ADE61DE</PackageCertificateThumbprint>
+    <AppxBundle>Always</AppxBundle>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

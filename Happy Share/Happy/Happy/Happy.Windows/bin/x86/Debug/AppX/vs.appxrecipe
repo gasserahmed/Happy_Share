@@ -20,13 +20,13 @@
     <AppXManifest Include="W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-07-05T21:09:35.223</Modified>
+      <Modified>2019-07-05T21:16:17.829</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Debug\Happy Share.Windows.exe">
       <PackagePath>Happy Share.Windows.exe</PackagePath>
-      <Modified>2019-07-05T21:09:34.044</Modified>
+      <Modified>2019-07-05T21:16:17.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="W:\Git\Happy_Share\Happy Share\Happy\packages\Facebook.Client.0.9.1-alpha\lib\win8\Facebook.Client.dll">
       <PackagePath>Facebook.Client.dll</PackagePath>
@@ -323,7 +323,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Debug\Videos_links.xbf">
       <PackagePath>Videos_links.xbf</PackagePath>
-      <Modified>2019-07-05T21:08:04.136</Modified>
+      <Modified>2019-07-05T21:16:16.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Debug\Images.xbf">
       <PackagePath>Images.xbf</PackagePath>
@@ -391,7 +391,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-07-05T21:09:34.435</Modified>
+      <Modified>2019-07-05T21:16:17.640</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

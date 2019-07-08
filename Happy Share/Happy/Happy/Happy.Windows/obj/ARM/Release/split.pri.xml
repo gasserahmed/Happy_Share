@@ -358,6 +358,23 @@
 						</Candidate>
 					</NamedResource>
 				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Fonts">
+					<NamedResource name="Forte.ttf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Fonts/Forte.ttf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\Forte.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Gabriola.ttf" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Fonts/Gabriola.ttf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\Gabriola.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HANFORD_.TTF" uri="ms-resource://47309GasserMontaser.HappyShare/Files/Assets/Fonts/HANFORD_.TTF">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\HANFORD_.TTF</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="DataModel">
 				<NamedResource name="SampleData.json" uri="ms-resource://47309GasserMontaser.HappyShare/Files/DataModel/SampleData.json">

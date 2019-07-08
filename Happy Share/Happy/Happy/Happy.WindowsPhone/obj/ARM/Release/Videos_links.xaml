@@ -30,7 +30,7 @@
         <!--TODO: Content should be placed within the following grid-->
         <Grid Grid.Row="1" x:Name="ContentRoot">
             <Viewbox Stretch="Fill" Grid.Row="1"  Grid.RowSpan="2">
-                <WebView x:ConnectionId='1' x:Name="webView" Height="1000" Width="1000"  Source="http://youtu.be/Q-GLuydiMe4?list=PLyfZ4GxqrGzxr3DUCeMyTxCMpIOB_ChhY"                                      />
+                <WebView x:ConnectionId='1' x:Name="webView" Height="1000" Width="1000"  Source="https://youtu.be/ZbZSe6N_BXs"                                      />
             </Viewbox>
             <ProgressRing Background="SeaGreen" Name="LoadingProcessProgressRing" Width="200" Height="200" Grid.Row="1" Foreground="#FFFFFF"/>
         </Grid>

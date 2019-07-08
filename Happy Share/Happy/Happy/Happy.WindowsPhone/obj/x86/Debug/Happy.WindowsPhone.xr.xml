@@ -113,6 +113,7 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Style" />
       <RootProperty Name="CharacterSpacing" />
+      <RootProperty Name="FontFamily" />
       <RootProperty Name="Height" />
       <RootEvent Name="Tapped" />
     </RootType>

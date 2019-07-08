@@ -3,7 +3,7 @@
 "ResourceDimensions"		"scale-140"
 
 [Files]
-"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\filemap.scale-140.pri"			"resources.pri"
-"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\shareHappy-Splash Screen.scale-140.png"			"shareHappy-Splash Screen.scale-140.png"
-"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
-"W:\Microsoft\Applictaions\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\Assets\shareHappy1.scale-140.png"			"Assets\shareHappy1.scale-140.png"
+"W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\filemap.scale-140.pri"			"resources.pri"
+"W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\shareHappy-Splash Screen.scale-140.png"			"shareHappy-Splash Screen.scale-140.png"
+"W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"W:\Git\Happy_Share\Happy Share\Happy\Happy\Happy.Windows\obj\ARM\Release\PackageLayout\Assets\shareHappy1.scale-140.png"			"Assets\shareHappy1.scale-140.png"
